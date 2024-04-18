@@ -78,29 +78,31 @@ Family history of dementia
 
 Lifestyle choices 
 Physical activity, smoking status, nutrition diet, sleep quality 
+physical activity
 - sedenary: 331 = 33.1%
 - mild activity: 351 = 35.1%
 - moderate activity: 318 = 31.8%
-
+smoking status 
 - former smoker: 458 = 45.8% 
 - never smoked: 452 = 45.2%
 - current smoker: 90 = 9%
-
+diet
 - mediterranean diet: 338 = 33.8% 
 - balanced diet: 332 = 33.2% 
 - low-carb diet: 330 = 33%
-
+sleep quality
 - good sleep: 446 = 46.6% 
 - bad sleep: 534 = 53.4%
 
 ***cognitive*** 
 Dementia, depression, cognitive test scores, education level 
+dementia
 - no dementia: 515 = 51.5% 
-- dementia: 485 = 48.5% 
-
+- dementia: 485 = 48.5%
+depression
 - depression: 245 = 24.5% 
-- no depression: 755 = 75.5% 
-
+- no depression: 755 = 75.5%
+education level
 - primary school: 389 = 39.9% 
 - secondary school: 304 = 30.4% 
 - no school: 155 = 15.5% 
