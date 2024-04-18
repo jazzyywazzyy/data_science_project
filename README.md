@@ -34,7 +34,7 @@ The following columns are objects
 The dataset contains 1000 entries 
 Null values can only be found in the columns Prescription & Dosage in mg (515 null values) -> the Na values in Prescription were changed to "No Prescription" 
 
-***Demographic Data** 
+***Demographic Data***
 Age, Weight, Gender, Dominant hand 
 - Age ranges from 60 to 90 with a mean of 74.91
 - Weight ranges from 50 t0 90kg with a mean of 74.32kg
@@ -58,6 +58,8 @@ Diabetic, heart rate, alcohol level, blood oxygen level, body temperature
 - 12.8% or 128 individuals take Memantine
 - 11.9% or 119 individuals take Prvastigmine
 - 51.5% or 515 individuals take no medication
+- all 485 individuals who have dementia are on dementia medication
+- there are no reports of any of the 515 individuals without dimensia taking medication 
 
 ***Genetics***
 History of medication, chronic diseases, APOE_e4 allel, family history 
@@ -104,6 +106,8 @@ Dementia, depression, cognitive test scores, education level
 dementia
 - no dementia: 515 = 51.5% 
 - dementia: 485 = 48.5%
+- 244 women suffer from dementia
+- 241 men suffer from dementia 
   
 depression
 - depression: 245 = 24.5% 
