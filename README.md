@@ -76,7 +76,7 @@ Family history of dementia
 - 520 or 52% with family history
 - 480 or 48% without family history
 
-Lifestyle choices 
+***Lifestyle choices***
 Physical activity, smoking status, nutrition diet, sleep quality 
 
 physical activity
