@@ -1,4 +1,4 @@
-#Data Exploration
+# Data Exploration
 
 ***Data Types***
 The following columns contain integers 
